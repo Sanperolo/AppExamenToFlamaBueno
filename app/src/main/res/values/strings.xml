@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppExamenToFlama</string>
+    <string name="Titulo">Introduzca el Numero de peliculas que desea visualizar:</string>
+    <string name="btnMain">Lets GO!</string>
+    <string name="num">nº</string>
+    <string name="id">Id:</string>
+    <string name="Nombre">Nombre de la Pelicula:</string>
+    <string name="clasificacion">Clasificacion:</string>
+    <string name="Director">Director:</string>
+    <string name="clave_num_pelicula">NUM_PELICULA</string>
+</resources>
